@@ -1,0 +1,29 @@
+{
+  "name": "categorized-words",
+  "version": "1.0.0",
+  "description": "Clean list of ~90k english words divided into seven categories. Useful for e.g. generation of memorable, pseudo-semantical passphrases or human-friendly identifiers.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/felixfischer/categorized-words"
+  },
+  "main": "index.js",
+  "keywords": [
+    "english",
+    "language",
+    "words",
+    "wordlist",
+    "list",
+    "dictionary",
+    "nouns",
+    "verbs",
+    "adjectives",
+    "pronouns",
+    "passwords"
+  ],
+  "author": "Felix Fischer <kontakt@felixfischer.com>",
+  "files": [
+    "2of12id.json",
+    "index.js"
+  ],
+  "license": "MIT"
+}
